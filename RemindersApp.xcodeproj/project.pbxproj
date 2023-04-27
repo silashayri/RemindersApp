@@ -14,6 +14,7 @@
 		C073513E29F70D300077920B /* RemindersApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C073513C29F70D300077920B /* RemindersApp.xcdatamodeld */; };
 		C073514029F70D310077920B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C073513F29F70D310077920B /* Assets.xcassets */; };
 		C073514329F70D310077920B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C073514129F70D310077920B /* LaunchScreen.storyboard */; };
+		C073514F29F717BE0077920B /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C073514E29F717BE0077920B /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C073513F29F70D310077920B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C073514229F70D310077920B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C073514429F70D310077920B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C073514E29F717BE0077920B /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				C073513329F70D300077920B /* AppDelegate.swift */,
 				C073513529F70D300077920B /* SceneDelegate.swift */,
 				C073513729F70D300077920B /* ViewController.swift */,
+				C073514E29F717BE0077920B /* DetailsViewController.swift */,
 				C073513929F70D300077920B /* Main.storyboard */,
 				C073513F29F70D310077920B /* Assets.xcassets */,
 				C073514129F70D310077920B /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				C073513429F70D300077920B /* AppDelegate.swift in Sources */,
 				C073513629F70D300077920B /* SceneDelegate.swift in Sources */,
 				C073513E29F70D300077920B /* RemindersApp.xcdatamodeld in Sources */,
+				C073514F29F717BE0077920B /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
