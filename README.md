@@ -1,2 +1,2 @@
 # RemindersApp
-A simple CoreData example app
+A simple example of CoreData.
